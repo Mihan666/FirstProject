@@ -4,6 +4,7 @@ public class Cat {
 
     private int age = 4;
 
+    private String name = "Barsik";
 
 
 
